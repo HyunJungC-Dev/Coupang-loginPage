@@ -16,6 +16,7 @@
   top: calc(50% - 386px / 2 + 56px + 50px);
 }
 
+/* Input email */
 form .logo-email {
   position: relative;
   left: 0px;
@@ -27,6 +28,25 @@ form .input-email {
   height: 50px;
   left: 45px;
 
+  border: 1px solid #cccccc;
+  box-sizing: border-box;
+}
+
+/* Input Password */
+form .logo-password {
+  position: absolute;
+  left: 0px;
+  top: 70px;
+}
+
+form .input-password {
+  position: absolute;
+  width: 531px;
+  height: 50px;
+  left: 45px;
+  top: 70px;
+
+  /* light gray */
   border: 1px solid #cccccc;
   box-sizing: border-box;
 }
