@@ -137,3 +137,20 @@ form .join-btn {
 
   color: #0074e9;
 }
+
+/* ⓒCoupang Corp. All rights reserved. */
+.coupang-right {
+  position: absolute;
+  width: 240px;
+  height: 19px;
+  left: calc(50% - 240px / 2);
+  top: 426px;
+
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #555555;
+}
