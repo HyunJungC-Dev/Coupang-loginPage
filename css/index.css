@@ -1,7 +1,8 @@
+/* Coupang logo */
 #coupang-logo {
   position: absolute;
   width: 246px;
   height: 56px;
   left: calc(50% - 246px / 2);
-  top: calc(50% - 56px / 2 - 248px);
+  top: calc(50% - 56px / 2 - 171px);
 }
