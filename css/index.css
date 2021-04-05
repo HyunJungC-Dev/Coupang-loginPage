@@ -50,3 +50,22 @@ form .input-password {
   border: 1px solid #cccccc;
   box-sizing: border-box;
 }
+
+/* Auto Login */
+form .check-auto-login {
+  position: absolute;
+  width: 275px;
+  height: 24px;
+  left: 0px;
+  top: 142px;
+}
+
+form .auto-login-text {
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #555555;
+}
