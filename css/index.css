@@ -94,3 +94,46 @@ form .find-email-or-password-symbol {
   height: 16px;
   top: 4px;
 }
+
+/* Login button */
+form .login-btn {
+  position: absolute;
+  width: 575px;
+  height: 66px;
+  left: 0;
+  top: 209px;
+
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+/* br */
+form .hr-between-login-btn-join-btn {
+  position: absolute;
+  width: 575px;
+  height: 1px;
+  left: 0;
+  top: 297px;
+  margin: 0;
+
+  background: #cccccc;
+}
+
+/* Join button */
+form .join-btn {
+  position: absolute;
+  width: 575px;
+  height: 66px;
+  left: 0;
+  top: 320px;
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+
+  color: #0074e9;
+}
