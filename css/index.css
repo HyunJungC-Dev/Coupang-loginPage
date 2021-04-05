@@ -4,7 +4,7 @@
   width: 246px;
   height: 56px;
   left: calc(50% - 246px / 2);
-  top: calc(50% - 56px / 2 - 171px);
+  top: calc(50% - 56px / 2 - (732px - 236px) / 2);
 }
 
 /* LoginForm */
@@ -13,7 +13,7 @@
   width: 576px;
   height: 386px;
   left: calc(50% - 576px / 2);
-  top: calc(50% - 386px / 2 + 56px + 50px);
+  top: calc(50% - 386px / 2 + (562px - 412px) / 2 - 50px);
 }
 
 /* Input email */
