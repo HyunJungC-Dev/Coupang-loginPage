@@ -69,3 +69,28 @@ form .auto-login-text {
 
   color: #555555;
 }
+
+/* Find email or password */
+form .find-email-or-password {
+  position: absolute;
+  width: 239px;
+  height: 25px;
+  left: 336.5px;
+  top: 142px;
+}
+
+form .find-email-or-password-text {
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #0074e9;
+}
+
+form .find-email-or-password-symbol {
+  position: absolute;
+  height: 16px;
+  top: 4px;
+}
